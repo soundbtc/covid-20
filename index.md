@@ -62,7 +62,11 @@ widgetStyle["chartStyle"]="none";
 <p>
   <h1>Where to get Bitcoin?</h1>
   </p>
+  
   [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+  
+  [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+  
   [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
   
   <h2>KYC</h2>
