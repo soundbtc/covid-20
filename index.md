@@ -48,8 +48,11 @@ widgetStyle["cornerStyle"]="round";
 widgetStyle["lastUpdateTime"]="block";
 widgetStyle["chartStyle"]="none";
 </script><meta charset="UTF"><script src="https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js"></script><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script><script src="https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js"></script></div>
-
+##
+You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 <P>
+  ##
+You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 <h1>What is Bitcoin?</h1>
 <p>Bitcoin is a digital currency that lives on the internet. It can be used by anyone all around the world, 24/7 365 days of the year. It is a peer to peer system and does not need a central authority to control it. Bitcoin miners that are spread all around the globe validate transactions and secure the network. There will only be a total of 21 million Bitcoins to ever exist. Due to the finite supply, some people see Bitcoin as a sound form of money, along with being digital gold.</p>
 <h2>History</h2>
