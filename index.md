@@ -1,4 +1,4 @@
-## Welcome to SoundBTC
+## Welcome to SoundBTC <iframe src="https://www.coinratecap.com/en/widget/dominance-chart" style="width: 100%; overflow: hidden;scroll-behavior: unset;height: 525px;border: unset;"></iframe>
 <h1>Welcome to SoundBTC</h1>
 <p><h2>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h2>
 </p>
