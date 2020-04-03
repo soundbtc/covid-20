@@ -28,7 +28,7 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
-
+[Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
 <div id="divWidgetAreaConversion" style="min-width:280px !important; height:220px !important;"><script>var typeChart='conversion';
 var w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]="BTC"; w_targetCurrency[0]="USD"; var widgetStyle={};
 widgetStyle["bgColor"]="#FFFFFF";
