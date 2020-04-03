@@ -1,10 +1,9 @@
 <h1>Welcome to SoundBTC</h1>
-<p><h2>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h2>
-</p>
-[Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
 
-##
-You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+<p><h3>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h2>
+</p>
+
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
@@ -32,8 +31,6 @@ You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/mas
 </div>
 <!-- TradingView Widget END -->
 
-[Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
-
 <div id="divWidgetAreaConversion" style="min-width:280px !important; height:220px !important;"><script>var typeChart='conversion';
 var w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]="BTC"; w_targetCurrency[0]="USD"; var widgetStyle={};
 widgetStyle["bgColor"]="#FFFFFF";
@@ -48,35 +45,19 @@ widgetStyle["cornerStyle"]="round";
 widgetStyle["lastUpdateTime"]="block";
 widgetStyle["chartStyle"]="none";
 </script><meta charset="UTF"><script src="https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js"></script><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script><script src="https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js"></script></div>
-##
-You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-  
-  ##
-You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 <h1>What is Bitcoin?</h1>
-<p>Bitcoin is a digital currency that lives on the internet. It can be used by anyone all around the world, 24/7 365 days of the year. It is a peer to peer system and does not need a central authority to control it. Bitcoin miners that are spread all around the globe validate transactions and secure the network. There will only be a total of 21 million Bitcoins to ever exist. Due to the finite supply, some people see Bitcoin as a sound form of money, along with being digital gold.</p>
+<p>Bitcoin is a digital currency that lives on the internet. It can be used by anyone all around the world, 24/7 365 days of the year. It is a peer to peer electronic cash system and does not need a central authority to control it. Bitcoin miners that are located all around the globe validate transactions and secure the network. There will only be a total of 21 million Bitcoins to ever exist. Due to the finite supply, some people see Bitcoin as a sound form of money, along with being digital gold.</p>
 <h2>History</h2>
-<p>Bitcoin was created in 2008 by an anonymous person named Satoshi Nakamoto. He came up with Bitcoin to solve the Double-Spending problem. The first Bitcoin was distributed in 2009, following the 2008 financial crisis. Bitcoin is a digital form of currency that lives on the internet! You are able to send and receive Bitcoin without a middle-man, no banks, no credit lenders involved! To this day, it still remains a mystery who Satoshi is.</p>
+<p>Bitcoin was created in 2008 by an anonymous person named Satoshi Nakamoto. He came up with Bitcoin to solve the Double-Spending problem. The first Bitcoin was distributed in 2009, following the 2008 financial crisis. Bitcoin is a digital form of currency that lives on the internet! You are able to send and receive bitcoin without a middle-man, no banks, no credit lenders involved! To this day, it still remains a mystery who Satoshi is.</p>
 
 <h2>Whitepaper</h2>
-[Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
-[Read Satoshi's Whitepaper](https://bitcoin.org/bitcoin.pdf)
-##
-You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
- 
-<P>In November of 2008, Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged the solution to the Double-Spending problem. This is where regular fiat currencies, such as the US dollar, are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain by bitcoin miners all around the world. These miners solve an algorithm, validating transactions.
+[Click here to read the Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+<P>In November of 2008, Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged the solution to the Double-Spending problem. This is where regular fiat currencies, such as the US dollar, are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain by bitcoin miners all around the world.
 </p>
-
-<h1>Welcome to SoundBTC</h1>
-<p><h2>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h2>
-</p>
-[Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
-
 <P>
 <h1>Where to get Bitcoin?</h1>
-  </p>
+ <p>There are a number of ways to get bitcoin. A great way to get bitcoin is to EARN bitcoin! Going through a Bitcoin exchange where you can get bitocin. Some exchanges abide by country specific AML(Anti-money laundering) rules. </p>
 
   
   [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
