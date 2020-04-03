@@ -3,6 +3,9 @@
 </p>
 [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
 
+##
+You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_78cdf"></div>
@@ -55,6 +58,8 @@ widgetStyle["chartStyle"]="none";
 <h2>Whitepaper</h2>
 [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 [Read Satoshi's Whitepaper](https://bitcoin.org/bitcoin.pdf)
+##
+You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
  
 <P>In November of 2008, Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged the solution to the Double-Spending problem. This is where regular fiat currencies, such as the US dollar, are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain by bitcoin miners all around the world. These miners solve an algorithm, validating transactions.
