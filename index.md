@@ -51,11 +51,11 @@ widgetStyle["chartStyle"]="none";
 <p>Bitcoin was created in 2008 by an anonymous person named Satoshi Nakamoto. He came up with Bitcoin to solve the Double-Spending problem. The first Bitcoin was distributed in 2009, following the 2008 financial crisis. Bitcoin is a digital form of currency that lives on the internet! You are able to send and receive Bitcoin without a middle-man, no banks, no credit lenders involved! To this day, it still remains a mystery who Satoshi is.</p>
 
 <h2>Whitepaper</h2>
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [GitHub Pages](https://pages.github.com/)
 <p>
   [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
-  [Read Satoshi's Whitepaper](https://bitcoin.org/bitcoin.pdf).</p>
+  [Read Satoshi's Whitepaper](https://bitcoin.org/bitcoin.pdf)</p>
 <p>In November of 2008, Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged the solution to the Double-Spending problem. This is where regular fiat currencies, such as the US dollar, are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain by bitcoin miners all around the world. These miners solve an algorithm, validating transactions.
 </p>
 
@@ -63,6 +63,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
   <h1>Where to get Bitcoin?</h1>
   
   [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+  [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+  
   <h2>KYC</h2>
   <h2>Local P2P</h2>
   <h2>Exchange</h2>
