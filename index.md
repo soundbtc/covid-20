@@ -65,15 +65,10 @@ widgetStyle["chartStyle"]="none";
   <h2>KYC</h2>
   <h2>Local P2P</h2>
   <h2>Exchange</h2>
-  
-  </p>
-  
-  <P>
-  <h1>Storing Bitcoin</h1>
+  <h2>Storing Bitcoin</h2>
   <h2>Cold Storage</h2>
   <h2>Hot Wallets</h2>
   
-  </p>
 ##
 You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
