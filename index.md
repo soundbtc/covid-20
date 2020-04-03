@@ -50,7 +50,8 @@ widgetStyle["chartStyle"]="none";
 </script><meta charset="UTF"><script src="https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js"></script><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script><script src="https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js"></script></div>
 ##
 You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-<P>
+
+  
   ##
 You can use the [editor on GitHub](https://github.com/soundbtc/covid-20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 <h1>What is Bitcoin?</h1>
