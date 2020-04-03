@@ -59,16 +59,26 @@ widgetStyle["chartStyle"]="none";
 <p>In November of 2008, Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged the solution to the Double-Spending problem. This is where regular fiat currencies, such as the US dollar, are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain by bitcoin miners all around the world. These miners solve an algorithm, validating transactions.
 </p>
 
+<h1>Welcome to SoundBTC</h1>
+<p><h2>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h2>
+</p>
+[Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+
 <p>
   <h1>Where to get Bitcoin?</h1>
   </p>
+  <br>
   
   [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
   
-  [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+  <br>
   
   [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
   
+  <br>
+  [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+  
+  <br>
   <h2>KYC</h2>
   <h2>Local P2P</h2>
   <h2>Exchange</h2>
