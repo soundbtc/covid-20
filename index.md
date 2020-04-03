@@ -52,7 +52,7 @@ widgetStyle["chartStyle"]="none";
 <h2>History</h2>
 <p>Bitcoin was created in 2008 by an anonymous person named Satoshi Nakamoto. He came up with Bitcoin to solve the Double-Spending problem. The first Bitcoin was distributed in 2009, following the 2008 financial crisis. Bitcoin is a digital form of currency that lives on the internet! You are able to send and receive Bitcoin without a middle-man, no banks, no credit lenders involved! To this day, it still remains a mystery who Satoshi is.</p>
 
-
+[I'm an inline-style link](https://www.google.com)
 
 <h2>Whitepaper</h2>
 [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
