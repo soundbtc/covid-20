@@ -2,7 +2,7 @@
 <h1>Welcome to SoundBTC</h1>
 <p><h2>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h2>
 </p>
-[Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
@@ -48,6 +48,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 <p>
   <h1>Where to get Bitcoin?</h1>
+  
+  [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
   <h2>KYC</h2>
   <h2>Local P2P</h2>
   <h2>Exchange</h2>
